@@ -4,8 +4,6 @@ Aquí tienes un **README** completo para tu aplicación de programación de even
 
 # Event Scheduler App
 
-![App Screenshot](https://via.placeholder.com/300) <!-- Reemplaza con una imagen real de tu app -->
-
 Una aplicación móvil para programar y gestionar eventos. Desarrollada con **Expo**, **React Native**, **React Navigation** y **SQLite**.
 
 ---
@@ -49,7 +47,8 @@ Sigue estos pasos para configurar y ejecutar la aplicación en tu entorno local.
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/event-scheduler-app.git
+   git clone [https://github.com/Ivanok1990/Event-Scheduler-App.git]
+
    cd event-scheduler-app
    ```
 
@@ -81,7 +80,6 @@ event-scheduler-app/
 ├── App.js                   # Punto de entrada de la aplicación
 ├── app.json                 # Configuración de Expo
 ├── package.json             # Dependencias y scripts del proyecto
-└── README.md                # Este archivo
 ```
 
 ---
@@ -117,28 +115,7 @@ event-scheduler-app/
 
 | Crear Evento | Lista de Eventos | Detalles del Evento |
 |--------------|------------------|---------------------|
-| ![Crear Evento](https://via.placeholder.com/300) | ![Lista de Eventos](https://via.placeholder.com/300) | ![Detalles del Evento](https://via.placeholder.com/300) |
-
----
-
-## Contribución
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar esta aplicación, sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una rama para tu feature o corrección:
-   ```bash
-   git checkout -b nombre-de-tu-feature
-   ```
-3. Realiza tus cambios y haz commit:
-   ```bash
-   git commit -m "Añade una nueva feature"
-   ```
-4. Sube tus cambios a GitHub:
-   ```bash
-   git push origin nombre-de-tu-feature
-   ```
-5. Abre un pull request en GitHub.
+| ![Crear Evento](https://private-user-images.githubusercontent.com/79412536/420555466-323f0cbf-3955-44e2-b9e1-0fcc652699ba.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE0MDQwNzYsIm5iZiI6MTc0MTQwMzc3NiwicGF0aCI6Ii83OTQxMjUzNi80MjA1NTU0NjYtMzIzZjBjYmYtMzk1NS00NGUyLWI5ZTEtMGZjYzY1MjY5OWJhLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA4VDAzMTYxNlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ5YTEwNTNkZmEzZTZjM2FmY2FkZTlkMmE2NmNmZTYyOGExN2FlNGE0NGYxN2Y4OTc4OGVhNzUzNWU4MWQyZWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.hHLpDd4z2J9f88ELCnIXAJC0Y6rO1cjF1Vk7HADWjJQ) | ![Lista de Eventos](https://private-user-images.githubusercontent.com/79412536/420555479-c4df34d6-a212-4a7a-bcce-c9e1da7b3802.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE0MDQwOTgsIm5iZiI6MTc0MTQwMzc5OCwicGF0aCI6Ii83OTQxMjUzNi80MjA1NTU0NzktYzRkZjM0ZDYtYTIxMi00YTdhLWJjY2UtYzllMWRhN2IzODAyLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA4VDAzMTYzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2N2YwZjA5Mjg0YTk2MzNkMGI1MjM2NmQxYTE0Njg2ZWNkMGEwYWVmMTYyYzIwYTE4ODYyYWIwZGU0MGEyNDAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.zLU_9pJteqhq8Sott2ePoEBjyPn9YVTx-6mI_pDpAO4) | ![Detalles del Evento](https://private-user-images.githubusercontent.com/79412536/420555520-0084b11a-ed2c-4692-be33-0a7b3dbd49a6.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDE0MDQxNDEsIm5iZiI6MTc0MTQwMzg0MSwicGF0aCI6Ii83OTQxMjUzNi80MjA1NTU1MjAtMDA4NGIxMWEtZWQyYy00NjkyLWJlMzMtMGE3YjNkYmQ0OWE2LmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzA4VDAzMTcyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZmNTFhNzVkNzFmYjJiNDQ3MDljYWMxODZkMzk4Nzk5OGNmMzAxNjgwMzlmMmZlOWVhOWQxYTQ0MGM0ZWZkMTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gEQiY4xZhySV965N9VoN87H6OesdE-eoPThi6oPMbkU) |
 
 ---
 
@@ -152,9 +129,9 @@ Este proyecto está bajo la licencia **MIT**. Para más detalles, consulta el ar
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme:
 
-- **Nombre**: [Tu Nombre]
-- **Email**: [tu-email@example.com]
-- **GitHub**: [tu-usuario](https://github.com/tu-usuario)
+- **Nombre**: [Omar Quintanilla]
+- **Email**: [omarrayo988@gmail.com]
+- **GitHub**: [Ivanok1990](https://github.com/Ivanok1990)
 
 ---
 
